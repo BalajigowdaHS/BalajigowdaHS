@@ -31,20 +31,22 @@ My work emphasizes:
 ---
 
 ## 🔍 Areas of Interest
-- 📊 **Operational & time-series analytics** (forecasting, trend analysis)
-- 🧹 **Data cleaning, validation, and reproducible workflows**
-- 🤖 **GenAI & LLM-based tools** (RAG, agents, automation)
-- 📈 **Decision support** and analytics for real business problems
+- 📊 **Operational analytics & machine learning** (predictive modeling, forecasting, anomaly-style insights)
+- 🧹 Data cleaning, validation, and reproducible workflows for real-world datasets
+- 🤖 **Machine Learning & GenAI** solutions (regression, time-series models, RAG, agent-based workflows)
+- 📈 Decision support and analytics across multiple concurrent business projects
+
 
 ---
 
 ## 🧠 Selected Project Experience
-- **GenAI / RAG Systems** – Built retrieval-based assistants using LangChain and vector databases to summarize and surface information from large document collections.
-- **Predictive & Time-Series Modeling** – Applied regression and forecasting techniques to support planning and trend analysis.
-- **Large-Scale Data Processing** – Worked with multi-million–row datasets, enforcing quality checks and structured transformations.
-- **Analytics & Dashboards** – Developed dashboards and lightweight apps to make insights accessible to stakeholders.
+- **Machine Learning & Predictive Modeling** – Built regression, classification, and time-series models to support forecasting, trend analysis, and decision-making on real-world datasets.
+- **GenAI / RAG Systems** – Developed retrieval-based assistants using LangChain and vector databases to summarize, search, and surface insights from large document collections.
+- **Operational & Data Quality Analytics** – Worked extensively on data cleaning, validation, and transformation pipelines to ensure reliability before modeling.
+- **Large-Scale Data Processing** – Analyzed multi-million–row datasets using Python and SQL, applying structured transformations and quality checks.
+- **Analytics & Dashboards** – Created dashboards and lightweight apps to make model outputs and insights accessible to non-technical stakeholders.
 
-(Examples and demos are available through my portfolio.)
+
 
 ---
 
