@@ -39,7 +39,7 @@ My work emphasizes:
 
 ---
 
-## 🧠 Selected Project Experience
+## 🧠 Project Experience
 - **Machine Learning & Predictive Modeling** – Built regression, classification, and time-series models to support forecasting, trend analysis, and decision-making on real-world datasets.
 - **GenAI / RAG Systems** – Developed retrieval-based assistants using LangChain and vector databases to summarize, search, and surface insights from large document collections.
 - **Operational & Data Quality Analytics** – Worked extensively on data cleaning, validation, and transformation pipelines to ensure reliability before modeling.
