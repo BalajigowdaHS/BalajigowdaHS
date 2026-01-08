@@ -9,8 +9,8 @@
   <a href="https://linkedin.com/in/balajigowdahs">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="<YOUR_PORTFOLIO_LINK>">
-    <img src="https://balajigowdahs.github.io/Portfolio/"/>
+  <a href="https://balajigowdahs.github.io/Portfolio/">
+        <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white"/>
   </a>
   <a href="mailto:balajigowdahs04@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white"/>
